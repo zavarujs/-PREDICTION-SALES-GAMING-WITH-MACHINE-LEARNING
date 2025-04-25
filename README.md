@@ -1,1 +1,2 @@
-# -PREDICTION-SALES-GAMING-WITH-MACHINE-LEARNING
+# PREDICTION-SALES-GAMING-WITH-MACHINE-LEARNING
+This project analyzes video game sales data and builds a predictive model using machine learning. The dataset was cleaned and visualized to identify patterns and trends in sales based on console, year, genre, and rating. A CatBoostRegressor model was trained to predict sales in millions of units (SalesInMillions), with performance evaluated using the Root Mean Squared Error (RMSE). The model achieved an RMSE of 1.54, indicating relatively accurate predictions. This project can be utilized to forecast sales of upcoming video games and to analyze key factors influencing sales in the video game industry.
